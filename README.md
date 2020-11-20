@@ -26,8 +26,8 @@
 </details>
 
 ini semua gratis, jangan pelit ⭐️ ya :D
-<p align="center"><a href="https://wa.me/6288904990855?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
-<p align="center"><a href="https://wa.me/6288904990855?text=hi" target="_blank">My Whatsapp</a>.</p>
+<p align="center"><a href="https://wa.me/6289504990855?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
+<p align="center"><a href="https://wa.me/6289504990855?text=hi" target="_blank">My Whatsapp</a>.</p>
 </div>
 
 ## Getting Started
