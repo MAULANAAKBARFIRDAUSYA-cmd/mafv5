@@ -6,15 +6,15 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "ArugaZ",
+  "author": "MaulanaAF",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArugaZ/whatsapp-bot.git"
+    "url": "https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5"
   },
   "bugs": {
-    "url": "https://github.com/ArugaZ/whatsapp-bot/issues"
+    "url": "https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/issues"
   },
-  "homepage": "https://github.com/ArugaZ/whatsapp-bot",
+  "homepage": "https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.16",
