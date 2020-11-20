@@ -2,33 +2,32 @@
 <img>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Whatsapp-Bot" src="cantumkan sumber disini"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ArugaZ"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARUGAZ-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd"><img title="Author" src="cantumkan sumber disini"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/badge/master"></a>
+<a href="cantumkan sumber disini"><img title="Rating" src="cantumkan sumber disini"></a>
 </p>
 <p align="center">
-<a href="https://github.com/arugaz/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArugaZ%2Fwhatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="cantumkan sumber disini" src="cantumkan sumber disini"></a>
+<a href="cantumkan sumber disini"><img title="Stars" src="cantumkan sumber disini"></a>
+<a href="cantumkan sumber disini"><img title="Forks" src="cantumkan sumber disini"></a>
+<a href="cantumkan sumber disini"><img title="Watching" src="cantumkan sumber disini"></a>
+<a href="https://hits.seeyoufarm.com"><img src="cantumkan sumber disini"/></a>
 </p>
 <div align="center">
 <details>
  <summary>🥟 Help me!</summary>
  
- [Trakteer](https://trakteer.id/arugabot)
+ [Trakteer](https://trakteer.id/anonymous)
  
 </details>
 
 ini semua gratis, jangan pelit ⭐️ ya :D
-<p align="center"><a href="https://arugaz.herokuapp.com/" target="_blank">Free Rest APIs</a>.</p>
-<p align="center"><a href="https://wa.me/6281574780701?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
-<p align="center"><a href="https://wa.me/6281355538777?text=hi" target="_blank">My Whatsapp</a>.</p>
+<p align="center"><a href="https://wa.me/6288904990855?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
+<p align="center"><a href="https://wa.me/6288904990855?text=hi" target="_blank">My Whatsapp</a>.</p>
 </div>
 
 ## Getting Started
@@ -60,16 +59,16 @@ Run the Whatsapp bot
 after running it you need to scan the qr
 
 ### Information
-- Change ownerNumber on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L2)
-- Change groupLimit on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L3)
-- Change memberLimit on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L4)
-- Change prefix on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L5)
-- Change menu on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/lib/menu.js#L32)
-- Add kata kasar on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/lib/kataKotor.js#L8)
-- Change all apiKey on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/api.json)
+- Change ownerNumber on [this section]
+- Change groupLimit on [this section]
+- Change memberLimit on [this section]
+- Change prefix on [this section]
+- Change menu on [this section]
+- Add kata kasar on [this section]
+- Change all apiKey on [this section]
 - Get Api NoBackground on [this website](https://www.remove.bg/)
 - Get Api ScreenShot on [this website](https://apiflash.com/)
-- Get Api Simi-simi on [this website](https://workshop.simsimi.com/en/), masih limit api simi-siminya? [cek ini](https://github.com/ArugaZ/whatsapp-bot/issues/38#issuecomment-726981060)
+- Get Api Simi-simi on [this website](https://workshop.simsimi.com/en/)
 
 ---
 
