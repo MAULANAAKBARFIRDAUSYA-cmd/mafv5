@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/issues"
   },
-  "homepage": "https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5",
+  "homepage": "https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#readme",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.16",
