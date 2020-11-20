@@ -168,8 +168,8 @@ module.exports = HandleMsg = async (aruga, message) => {
                       })
             } else {
                 let cgrup = await aruga.getAllGroups()
-                if (cgrup.length > groupLimit) return aruga.reply(from, `Sorry, the group on this bot is full\nMax Group is: ${groupLimit}`, id)
-                if (cgrup.size < memberLimit) return aruga.reply(from, `Sorry, BOT wil not join if the group members do not exceed ${memberLimit} people`, id)
+                if (cgrup.length > groupLimit) return aruga.reply(from, `Maaf, Grup ini sudah penuh!\nMax Group is: ${groupLimit}`, id)
+                if (cgrup.size < memberLimit) return aruga.reply(from, `Maaf, Nomor BOT ini akan keluar jika member grup belum mencapai ${memberLimit} orang`, id)
                 await aruga.joinGroupViaLink(linkgrup)
                       .then(async () =>{
                           await aruga.reply(from, 'Berhasil join grup via link!', id)
@@ -213,7 +213,7 @@ module.exports = HandleMsg = async (aruga, message) => {
                     await aruga.sendImageAsSticker(from, `data:${mimetype};base64,${result.base64img}`)
                     } catch(err) {
                     console.log(err)
-	   	            await aruga.reply(from, 'Maaf batas penggunaan hari ini sudah mencapai maksimal', id)
+	   	            await aruga.reply(from, 'Maaf, batas penggunaan hari ini sudah mencapai maksimal', id)
                     }
                 }
             } else if (args.length === 1) {
