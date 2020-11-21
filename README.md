@@ -39,7 +39,7 @@ Clone this project
 
 ```bash
 > git clone https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5
-> cd whatsapp-bot
+> cd mafv5
 ```
 
 Install the dependencies:
