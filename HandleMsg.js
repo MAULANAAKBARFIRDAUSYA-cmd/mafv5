@@ -197,7 +197,7 @@ module.exports = HandleMsg = async (aruga, message) => {
                 const imageBase64 = `data:${_mimetype};base64,${mediaData.toString('base64')}`
                 aruga.sendImageAsSticker(from, imageBase64)
                 .then(() => {
-                    aruga.reply(from, 'Here\'s your sticker')
+                    aruga.reply(from, 'Ini stickermu, gunakan dengan bijak yaaa!')
                     console.log(`Sticker Processed for ${processTime(t, moment())} Second`)
                 })
             } else if (args[0] === 'nobg') {
