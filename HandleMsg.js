@@ -164,7 +164,7 @@ module.exports = HandleMsg = async (aruga, message) => {
                 await aruga.joinGroupViaLink(linkgrup)
                       .then(async () => {
                           await aruga.sendText(from, 'Berhasil join grup via link!')
-                          await aruga.sendText(chekgrup.id, `Hai Lurrr~, Kenalin gue Maulana's BOT, bisa juga jadi BOT Assistant kamu. Untuk mengetahui kode perintah lainnya, kamu bisa ketik ${prefix}menu`)
+                          await aruga.sendText(chekgrup.id, `Hai Semuanyaaa~, Kenalin gue Maulana's BOT Assistant, bisa juga jadi BOT Assistant kamu. Untuk mulai menggunakan dan mengetahui kode perintah, kamu bisa ketik ${prefix}menu`)
                       })
             } else {
                 let cgrup = await aruga.getAllGroups()
@@ -593,7 +593,8 @@ module.exports = HandleMsg = async (aruga, message) => {
                     aruga.reply(from, 'Ada yang Error!', id)
                 })
             } else {
-                aruga.reply(from, `Maaf query tidak tersedia. Silahkan ketik ${prefix}kpop untuk melihat list query`)
+                aruga.reply(from, `Maaf query tidak tersedia. Query saat ini hanya #kpop bts, #kpop exo dan #kpop blackpink`)
+		aruga.reply(from, `Silahkan ketik ${prefix}kpop untuk melihat list query`)
             }
             break
         case 'memes':
@@ -703,8 +704,9 @@ module.exports = HandleMsg = async (aruga, message) => {
             if (args.length == 0) return aruga.reply(from, `Untuk mencari lagu dari youtube\n\nPenggunaan: ${prefix}play judul lagu`, id)
             axios.get(`https://arugaytdl.herokuapp.com/search?q=${body.slice(6)}`)
             .then(async (res) => {
-                await aruga.sendFileFromUrl(from, `${res.data[0].thumbnail}`, ``, `Lagu ditemukan\n\nJudul: ${res.data[0].title}\nDurasi: ${res.data[0].duration}detik\nUploaded: ${res.data[0].uploadDate}\nView: ${res.data[0].viewCount}\n\nsedang dikirim`, id)
+                await aruga.sendFileFromUrl(from, `${res.data[0].thumbnail}`, ``, `Lagu ditemukan\n\nJudul: ${res.data[0].title}\nDurasi: ${res.data[0].duration}detik\nUploaded: ${res.data[0].uploadDate}\nView: ${res.data[0].viewCount}\n\nSedang dikirim, silahkan tunggu yaaa!`, id)
                 axios.get(`https://arugaz.herokuapp.com/api/yta?url=https://youtu.be/${res.data[0].id}`)
+		    aruga.reply(from, 'Gagal, format lagu tidak didukung\nMohon untuk mendownload lagu melalui VidMate atau Televzr\n\nNOTE:\nJika terdapat Hak Cipta didalam lagu ini, maka lagu tidak akan dikirim!\nPastikan lagu tersebut bebas Hak Cipta')
                 .then(async(rest) => {
 					if (Number(rest.data.filesize.split(' MB')[0]) >= 10.00) return aruga.reply(from, 'Maaf ukuran file terlalu besar!')
                     await aruga.sendPtt(from, `${rest.data.result}`, id)
@@ -771,7 +773,7 @@ module.exports = HandleMsg = async (aruga, message) => {
             if (args.length == 0) return aruga.reply(from, `Mengubah teks menjadi sound (google voice)\nketik: ${prefix}tts <kode_bahasa> <teks>\ncontoh : ${prefix}tts id halo\nuntuk kode bahasa cek disini : https://anotepad.com/note/read/5xqahdy8`)
             const ttsGB = require('node-gtts')(args[0])
             const dataText = body.slice(8)
-                if (dataText === '') return aruga.reply(from, 'apa teksnya syg..', id)
+                if (dataText === '') return aruga.reply(from, 'apa teksnya sayangkuu...', id)
                 try {
                     ttsGB.save('./media/tts.mp3', dataText, function () {
                     aruga.sendPtt(from, './media/tts.mp3', id)
@@ -786,7 +788,7 @@ module.exports = HandleMsg = async (aruga, message) => {
             const quoteText = quotedMsg.type == 'chat' ? quotedMsg.body : quotedMsg.type == 'image' ? quotedMsg.caption : ''
             translate(quoteText, args[0])
                 .then((result) => aruga.sendText(from, result))
-                .catch(() => aruga.sendText(from, 'Error, Kode bahasa salah.'))
+                .catch(() => aruga.sendText(from, 'Error, Kode bahasa salah. Jangan memasukkan kode planet lain dong syg...'))
             break
 		case 'covidindo':
 			rugaapi.covidindo()
