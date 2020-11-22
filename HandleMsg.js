@@ -164,7 +164,7 @@ module.exports = HandleMsg = async (aruga, message) => {
                 await aruga.joinGroupViaLink(linkgrup)
                       .then(async () => {
                           await aruga.sendText(from, 'Berhasil join grup via link!')
-                          await aruga.sendText(chekgrup.id, `Hai Semuanyaaa~, Kenalin gue Maulana's BOT Assistant, bisa juga jadi BOT Assistant kamu. Untuk mulai menggunakan dan mengetahui kode perintah, kamu bisa ketik ${prefix}menu`)
+                          await aruga.sendText(chekgrup.id, `Hai Semuanyaaa~, Kenalin gue Maulana's BOT Assistant, bisa juga jadi BOT Assistant kamu.\nUntuk mulai menggunakan dan mengetahui kode perintah, kamu bisa ketik ${prefix}menu`)
                       })
             } else {
                 let cgrup = await aruga.getAllGroups()
@@ -593,8 +593,7 @@ module.exports = HandleMsg = async (aruga, message) => {
                     aruga.reply(from, 'Ada yang Error!', id)
                 })
             } else {
-                aruga.reply(from, `Maaf query tidak tersedia. Query saat ini hanya #kpop bts, #kpop exo dan #kpop blackpink`)
-		aruga.reply(from, `Silahkan ketik ${prefix}kpop untuk melihat list query`)
+                aruga.reply(from, `Maaf query tidak tersedia. Query saat ini hanya #kpop bts, #kpop exo dan #kpop blackpink.\n\nSilahkan ketik ${prefix}kpop untuk melihat list query`)
             }
             break
         case 'memes':
