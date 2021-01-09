@@ -25,7 +25,7 @@
  
 </details>
 
-ini semua gratis, jangan pelit ⭐️ ya :D
+MAF's Assistant is a multipurpose WhatsApp bot using wa-automate-nodejs library!
 <p align="center"><a href="https://wa.me/6289504990855?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
 <p align="center"><a href="https://wa.me/6289504990855?text=hi" target="_blank">My Whatsapp</a>.</p>
 </div>
