@@ -4,7 +4,7 @@
 <p align="center">
 </div>
 
-## MAF's Assistant is a multipurpose WhatsApp bot using wa-automate-nodejs library!
+MAF's Assistant is a multipurpose WhatsApp bot using wa-automate-nodejs library!
 
 <p align="center">
 <a href="#"><img title="MAF's Assistant V5" src="https://img.shields.io/badge/MAF's Assistant V5-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
