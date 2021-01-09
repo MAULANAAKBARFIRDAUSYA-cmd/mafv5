@@ -2,7 +2,7 @@
 <img src="https://avatars2.githubusercontent.com/u/53950128?s=460&u=09f530e3326f710c4e0f9106f094eeea5429f86d&v=4" width="128" height="128"/>
 </p>
 
-> MAF's Assistant is a multipurpose WhatsApp bot using wa-automate-nodejs library!
+MAF's Assistant is a multipurpose WhatsApp bot using wa-automate-nodejs library!
 
 <p align="center">
 <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MAULANA AKBAR F.-orange.svg?style=for-the-badge&logo=github"></a>
