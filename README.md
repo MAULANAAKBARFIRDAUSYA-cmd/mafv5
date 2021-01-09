@@ -31,9 +31,11 @@ MAF's Assistant is a multipurpose WhatsApp bot using wa-automate-nodejs library!
 <p align="center"><a href="https://wa.me/6289504990855?text=hi" target="_blank">My Whatsapp</a>.</p>
 </div>
 
-## Getting Started
+## Requirements
 
 This project require NodeJS v12.
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
 
 ### Install
 Clone this project
