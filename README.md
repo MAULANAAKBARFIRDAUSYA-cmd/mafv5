@@ -1,11 +1,13 @@
 <div align="center">
 <img src="https://images3.alphacoders.com/194/194029.jpg" alt="BocchiBot" width="528" />
  
-# MAF's Assistant V5/>
+# MAF's Assistant V5
 
 > MAF's Assistant is a multipurpose WhatsApp bot using wa-automate-nodejs library!
 >
 >
+
+</div>
 
 <p align="center">
 <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MAULANA AKBAR F.-orange.svg?style=for-the-badge&logo=github"></a>
