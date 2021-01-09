@@ -62,13 +62,13 @@ Run the Whatsapp bot
 after running it you need to scan the qr
 
 ## Information
-- Change ownerNumber on [this section]
-- Change groupLimit on [this section]
-- Change memberLimit on [this section]
-- Change prefix on [this section]
-- Change menu on [this section]
-- Add kata kasar on [this section]
-- Change all apiKey on [this section]
+- Change ownerNumber on [this section](https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/blob/master/settings/setting.json#L2)
+- Change groupLimit on [this section](https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/blob/master/settings/setting.json#L3)
+- Change memberLimit on [this section](https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/blob/master/settings/setting.json#L4)
+- Change prefix on [this section](https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/blob/master/settings/setting.json#L5)
+- Change menu on [this section](https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/blob/master/lib/menu.js#L32)
+- Add kata kasar on [this section](https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/blob/master/lib/kataKotor.js#L8)
+- Change all apiKey on [this section](https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/blob/master/settings/api.json)
 - Get Api NoBackground on [this website](https://www.remove.bg/)
 - Get Api ScreenShot on [this website](https://apiflash.com/)
 - Get Api Simi-simi on [this website](https://workshop.simsimi.com/en/)
