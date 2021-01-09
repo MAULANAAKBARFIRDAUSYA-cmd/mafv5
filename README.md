@@ -1,10 +1,7 @@
-<p align="center">
+<div align="center">
 <img src="https://images3.alphacoders.com/194/194029.jpg" alt="BocchiBot" width="528" />
-</p>
-<p align="center">
  
 # MAF's Assistant V5/>
-</p>
 
 > MAF's Assistant is a multipurpose WhatsApp bot using wa-automate-nodejs library!
 >
