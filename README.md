@@ -25,6 +25,15 @@
 <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArugaZ%2Fwhatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#requirements">Requirements</a> •
+  <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#installation">Installation</a> •
+  <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#features">Features</a> •
+  <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#thanks-to">Thanks to</a> •
+  <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#license">License</a>
+</p>
+
 <div align="center">
 <details>
  <summary>Contact me!</summary></a></p>
