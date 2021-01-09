@@ -26,14 +26,14 @@ MAF's Assistant is a multipurpose WhatsApp bot using wa-automate-nodejs library!
 </p>
 <div align="center">
 <details>
- <summary>🥟 Help me!</summary>
+ <summary>Contact me!</summary>
  
- [GitHub](https://github.com/MAULANAAKBARFIRDAUSYA-cmd)
- 
-</details>
+[GitHub](https://github.com/MAULANAAKBARFIRDAUSYA-cmd)
+[My WhatsApp](https://github.com/MAULANAAKBARFIRDAUSYA-cmd)
+[My WhatsApp BOT](https://github.com/MAULANAAKBARFIRDAUSYA-cmd)
+[Telegram](https://github.com/MAULANAAKBARFIRDAUSYA-cmd)
+[G-Mail](https://github.com/MAULANAAKBARFIRDAUSYA-cmd)
 
-<p align="center"><a href="https://wa.me/6289504990855?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
-<p align="center"><a href="https://wa.me/6285236167349?text=hi" target="_blank">My Whatsapp</a>.</p>
 </div>
 
 ## Requirements
