@@ -77,7 +77,8 @@ Clone this project
 Install the dependencies:
 
 ```bash
-> npm install 
+> npm i
+> npm install ffmpeg
 > npm install gify-cli -g
 ```
 
