@@ -2,7 +2,7 @@
 <img src="https://images3.alphacoders.com/194/194029.jpg" width="500" height="360"/>
 </p>
 <p align="center">
-<a href="#"><img title="MAF's Assistant V5" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MAF's Assistant V5" src="https://img.shields.io/badge/MAF's Assistant V5-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MAULANA AKBAR F.-orange.svg?style=for-the-badge&logo=github"></a>
@@ -21,7 +21,7 @@
 <details>
  <summary>🥟 Help me!</summary>
  
- [Trakteer](https://trakteer.id/arugabot)
+ [GitHub](https://github.com/MAULANAAKBARFIRDAUSYA-cmd)
  
 </details>
 
