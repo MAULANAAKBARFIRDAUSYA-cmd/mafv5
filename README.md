@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images3.alphacoders.com/194/194029.jpg" alt="BocchiBot" width="528" />
+<img src="https://images3.alphacoders.com/194/194029.jpg" alt="MAF'S Assistant" width="528" />
  
 # MAF's Assistant V5
 
