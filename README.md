@@ -10,7 +10,7 @@ MAF's Assistant is a multipurpose WhatsApp bot using wa-automate-nodejs library!
 <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MAULANA AKBAR F.-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/MAULANAAKBARFIRDAUSYA-cmd/mafv5/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/MAULANAAKBARFIRDAUSYA-cmd/mafv5/badge/master"></a>
+<a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/badge/master"></a>
 </p>
 <p align="center">
 <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
