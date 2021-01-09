@@ -32,7 +32,6 @@ MAF's Assistant is a multipurpose WhatsApp bot using wa-automate-nodejs library!
 [My WhatsApp](https://wa.me/+6285236167349)</a></p>
 [My WhatsApp BOT](https://wa.me/+6289504990855)</a></p>
 [Telegram](https://t.me/maulanaakbarf)</a></p>
-[G-Mail](https://mail.google.com/altixspherd)</a></p>
 
 </div>
 
