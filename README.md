@@ -37,8 +37,7 @@ This project require NodeJS v12.
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 
-### Install
-
+## Install
 Clone this project
 
 ```bash
@@ -62,7 +61,7 @@ Run the Whatsapp bot
 
 after running it you need to scan the qr
 
-### Information
+## Information
 - Change ownerNumber on [this section]
 - Change groupLimit on [this section]
 - Change memberLimit on [this section]
