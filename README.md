@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://images3.alphacoders.com/194/194029.jpg" width="528" height="361" />
- 
-# MAF's Assistant V5
+<img src="https://avatars2.githubusercontent.com/u/53950128?s=460&u=09f530e3326f710c4e0f9106f094eeea5429f86d&v=4" width="128" height="128"/>
+</p>
 
 > MAF's Assistant is a multipurpose WhatsApp bot using wa-automate-nodejs library!
 
