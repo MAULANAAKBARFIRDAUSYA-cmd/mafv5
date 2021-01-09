@@ -25,7 +25,7 @@
 <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/MAULANAAKBARFIRDAUSYA-cmd?color=blue&style=flat-square"></a>
 <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5"><img title="Stars" src="https://img.shields.io/github/stars/MAULANAAKBARFIRDAUSYA-cmd/mafv5?color=red&style=flat-square" /></a>
   <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MAULANAAKBARFIRDAUSYA-cmd/mafv5?color=red&style=flat-square" /></a>
-<a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MAULANAAKBARFIRDAUSYA-cmd/mafv5?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArugaZ%2Fwhatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 
