@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd"><img title="AUTHOR" src="https://img.shields.io/badge/AUTHOR-MAULANA AKBAR F.-orange?colorA=%23555555&colorB=%23C236F5&style=for-the-badge"></a>
+<a title="AUTHOR" src="https://img.shields.io/badge/AUTHOR-MAULANA AKBAR F.-orange?colorA=%23555555&colorB=%23C236F5&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd"><img title="COMMANDS" src="https://img.shields.io/badge/TOTAL COMMANDS-57 %5B40 FREE%5D-green?colorA=%23555555&colorB=%231A00A7&style=for-the-badge"></a>
