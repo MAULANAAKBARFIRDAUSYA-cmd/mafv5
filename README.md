@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
+<a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/MAULANAAKBARFIRDAUSYA-cmd?color=blue&style=flat-square"></a>
 <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5"><img title="Stars" src="https://img.shields.io/github/stars/MAULANAAKBARFIRDAUSYA-cmd/mafv5?color=red&style=flat-square" /></a>
   <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MAULANAAKBARFIRDAUSYA-cmd/mafv5?color=red&style=flat-square" /></a>
 <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
