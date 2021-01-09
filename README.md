@@ -4,8 +4,6 @@
 # MAF's Assistant V5
 
 > MAF's Assistant is a multipurpose WhatsApp bot using wa-automate-nodejs library!
->
->
 
 </div>
 
