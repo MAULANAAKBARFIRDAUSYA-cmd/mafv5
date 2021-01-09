@@ -31,7 +31,10 @@
   <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#install">Install</a> •
   <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#usage">Usage</a> •
   <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#information">Information</a> •
-  <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#license">License</a>
+  <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#features">Features</a>
+  <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#to-do">To Do</a>
+  <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#troubleshooting">Troubleshooting</a>
+  <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5#thanks-to">Thanks To</a>
 </p>
 
 <div align="center">
