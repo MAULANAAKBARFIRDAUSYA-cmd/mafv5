@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://images3.alphacoders.com/194/194029.jpg" width="528" height="361"/>
-<d align="center">
+<img src="https://images3.alphacoders.com/194/194029.jpg" width="528" height="361" />
  
 # MAF's Assistant V5
 
