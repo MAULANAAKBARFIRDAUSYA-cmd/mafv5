@@ -74,7 +74,7 @@ Clone this project
 > cd mafv5
 ```
 
-Install the dependencies:
+Install the Dependencies:
 
 ```bash
 > npm i
@@ -82,14 +82,14 @@ Install the dependencies:
 > npm install gify-cli -g
 ```
 
-### 🆗 Running the bot
+### 🆗 Running the BOT
 Run the Whatsapp bot
 
 ```bash
 > npm start
 ```
 
-after running it you need to scan the qr
+After that scan the QR code using your WhatsApp in your phone!
 
 ## Information
 - Change ownerNumber on [this section](https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv5/blob/master/settings/setting.json#L2)
