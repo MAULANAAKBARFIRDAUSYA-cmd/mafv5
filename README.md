@@ -82,7 +82,7 @@ Install the dependencies:
 > npm install gify-cli -g
 ```
 
-### Usage
+### 🆗 Running the bot
 Run the Whatsapp bot
 
 ```bash
