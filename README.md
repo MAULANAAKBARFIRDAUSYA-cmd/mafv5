@@ -38,6 +38,7 @@ This project require NodeJS v12.
 * [Git](https://git-scm.com/downloads)
 
 ### Install
+
 Clone this project
 
 ```bash
