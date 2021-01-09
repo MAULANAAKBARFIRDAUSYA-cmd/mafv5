@@ -11,6 +11,9 @@
 <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MAULANA AKBAR F.-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
+<a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd"><img title="RATING" src="https://img.shields.io/badge/TOTAL COMMANDS-57 %5B30 FREE%5B-green?colorA=%23555555&colorB=%231A00A7&style=for-the-badge"></a>
+</p>
+<p align="center">
 <a href="https://github.com/MAULANAAKBARFIRDAUSYA-cmd"><img title="RATING" src="https://img.shields.io/badge/BASIC RATING-60%20%2F%20100-green?colorA=%23555555&colorB=%23FC9800&style=for-the-badge"></a>
 </p>
 </p>
