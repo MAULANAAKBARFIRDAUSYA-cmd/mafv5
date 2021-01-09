@@ -81,6 +81,10 @@ Install the Dependencies:
 > npm install ffmpeg
 > npm install gify-cli -g
 ```
+If you are using Termux and not yet install Node.js before, install it before entering the "npm i" command:
+```bash
+> pkg install nodejs
+```
 
 ### 🆗 Running the BOT
 Run the Whatsapp bot
