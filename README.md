@@ -56,7 +56,7 @@
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 
-(for sticker GIF command)
+(FFmpeg for sticker GIF command)
 * [FFmpeg - All Available Version](https://www.gyan.dev/ffmpeg/builds/)
 * [FFmpeg - Direct Link Download](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z)
 
