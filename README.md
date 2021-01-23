@@ -61,6 +61,7 @@ Any text editor
 
 [ PC ]
 * [VS Code](https://code.visualstudio.com/)
+* Windows PowerShell
 * Command Prompt
 
 [ Android ]
