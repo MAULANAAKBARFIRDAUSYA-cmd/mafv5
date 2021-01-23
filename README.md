@@ -2,6 +2,8 @@
 <details>
  <summary>English Language</summary></a></p>
  
+</div>
+ 
 <img src="https://images3.alphacoders.com/194/194029.jpg" alt="MAF'S Assistant" width="528" />
  
 # MAF's Assistant V5
@@ -234,3 +236,5 @@ Fix Stuck on linux, install google chrome stable:
 ## Thanks to
 - [WA-Automate](https://github.com/open-wa/wa-automate-nodejs)
 - [MAF's Assistant V8](https://github.com/MAULANAAKBARFIRDAUSYA-cmd/mafv8)
+
+</div>
