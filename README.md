@@ -58,7 +58,7 @@
 
 [ FFmpeg for sticker GIF command ]
 * [FFmpeg - All Available Version](https://www.gyan.dev/ffmpeg/builds/)
-* [FFmpeg and 7zip - Direct Link Download (G.Drive)](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z)
+* [FFmpeg and 7zip - Direct Link Download](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z)(Google Drive)
 
 Any text editor
 
