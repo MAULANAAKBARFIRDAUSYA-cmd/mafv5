@@ -59,7 +59,7 @@
 
 Any text editor
 
-[ PC ]
+[ PC ] (it only takes one application to run it)
 * [VS Code](https://code.visualstudio.com/)
 * Windows PowerShell
 * Command Prompt
