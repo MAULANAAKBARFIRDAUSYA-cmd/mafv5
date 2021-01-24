@@ -55,10 +55,11 @@
 
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
+* [FFmpeg - All Available Version](https://www.gyan.dev/ffmpeg/builds/) (for Sticker GIF Command)
+* [libwebp](https://developers.google.com/speed/webp/download)
 
-[ FFmpeg for sticker GIF command ]
-* [FFmpeg - All Available Version](https://www.gyan.dev/ffmpeg/builds/)
-* [FFmpeg and 7zip - Direct Link Download](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z) (Google Drive)
+Direct Download all Requirements:
+* [All Requirements - Direct Link Download](https://drive.google.com/u/1/uc?export=download&confirm=EU8N&id=1hgU4iMXYd_8cwuYsWHMNoG9AweH40Eys)
 
 Any text editor
 
