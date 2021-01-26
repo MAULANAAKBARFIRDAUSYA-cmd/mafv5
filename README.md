@@ -4,6 +4,7 @@
 # MAF's Assistant V5
 
  MAF's Assistant is a multipurpose WhatsApp BOT using wa-automate-nodejs library!
+ (only for personal use)
  
 </div>
 
@@ -64,7 +65,7 @@ Download all Requirements :
 Any text editor
 
 [ PC ]
-(it only takes one application to run it)
+(it only takes one text editor to run it)
 * [VS Code](https://code.visualstudio.com/)
 * Windows PowerShell / Windows PowerShell ISE
 * Command Prompt
