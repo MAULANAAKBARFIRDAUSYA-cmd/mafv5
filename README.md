@@ -72,7 +72,39 @@ Any text editor
 [ Android ]
 * [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
-## Install
+If you are using your PC, install this before installing the repository
+
+## 🛠️ Installing the FFmpeg
+* Download one of the available versions of [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
+* Extract the file to `C:\`.
+* Rename the extracted folder to `ffmpeg`.
+* Run Any Text Editor as Administrator.
+* Run this command:
+```cmd
+> setx /m PATH "C:\ffmpeg\bin;%PATH%"
+```
+It will give us a callback like `SUCCESS: specified value was saved`.
+* Now that you've FFmpeg installed, verify that it's working by running this command to see version number:
+```cmd
+> ffmpeg -version
+```
+
+## 📷 Installing the libwebp
+* Download one of the available versions of [libwebp](https://developers.google.com/speed/webp/download).
+* Extract the file to `C:\`.
+* Rename the extracted file to `libwebp`.
+* Run Any Text Editor as Administrator.
+* Run this command:
+```cmd
+> setx /m PATH "C:\libwebp\bin;%PATH%"
+```
+It will give us a callback like `SUCCESS: specified value was saved`.
+* Now that you've libwebp installed, verify that it's installed by running this command to see version number:
+```cmd
+> webpmux -version
+```
+
+## Install This Repository
 Clone this project
 
 ```bash
@@ -84,8 +116,9 @@ Install the Dependencies:
 
 ```bash
 > npm i
-> npm install ffmpeg
 > npm install gify-cli -g
+> npm install ffmpeg (install this if you using Termux)
+> npm install cwebp (install this if you using Termux)
 ```
 If you are using Termux and not yet install Node.js before, install it before entering the "npm i" command:
 ```bash
