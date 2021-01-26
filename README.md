@@ -72,7 +72,7 @@ Any text editor
 [ Android ]
 * [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
-If you are using your PC, install this before installing the repository
+## If you are using your PC, install this before installing the repository
 
 ## 🛠️ Installing the FFmpeg
 * Download one of the available versions of [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
